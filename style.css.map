@@ -1,0 +1,1 @@
+{"version":3,"sources":["src/style.scss"],"names":[],"mappings":"AAKA,QACE,gBAAiB","file":"style.css","sourcesContent":["// @import '_component/config/color';\r\n// @import '_component/config/typography';\r\n// @import '_component/layout/layout';\r\n// @import '_component/header/header';\r\n// @import '_component/footer/footer';\r\nh1 span {\r\n  color: dodgerblue;\r\n}\r\n"]}
